@@ -1,0 +1,51 @@
+match_id,date,batting_team,bowling_team,batter,bowler,over,runs_batter,runs_total,valid_ball,wicket_kind,venue,toss_winner,toss_decision,match_won_by,inning
+1,2013-04-01,Mumbai Indians,Chennai Super Kings,Rohit Sharma,Deepak Chahar,1,4,4,1,,DY Patil Stadium,Mumbai Indians,bat,Mumbai Indians,1
+1,2013-04-01,Mumbai Indians,Chennai Super Kings,Rohit Sharma,Deepak Chahar,1,0,0,1,,DY Patil Stadium,Mumbai Indians,bat,Mumbai Indians,1
+1,2013-04-01,Mumbai Indians,Chennai Super Kings,Rohit Sharma,Deepak Chahar,1,1,1,1,,DY Patil Stadium,Mumbai Indians,bat,Mumbai Indians,1
+1,2013-04-01,Mumbai Indians,Chennai Super Kings,Quinton de Kock,Deepak Chahar,1,0,0,1,,DY Patil Stadium,Mumbai Indians,bat,Mumbai Indians,1
+1,2013-04-01,Mumbai Indians,Chennai Super Kings,Quinton de Kock,Deepak Chahar,1,6,6,1,,DY Patil Stadium,Mumbai Indians,bat,Mumbai Indians,1
+2,2014-04-02,Royal Challengers Bangalore,Rajasthan Royals,Faf du Plessis,Yuzvendra Chahal,1,1,1,1,,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1
+2,2014-04-02,Royal Challengers Bangalore,Rajasthan Royals,Faf du Plessis,Yuzvendra Chahal,1,0,0,1,,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1
+2,2014-04-02,Royal Challengers Bangalore,Rajasthan Royals,Faf du Plessis,Yuzvendra Chahal,1,4,4,1,,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1
+3,2015-04-03,Kolkata Knight Riders,Kings XI Punjab,Chris Lynn,Sandeep Sharma,1,2,2,1,,Eden Gardens,Kolkata Knight Riders,bat,Kolkata Knight Riders,1
+3,2015-04-03,Kolkata Knight Riders,Kings XI Punjab,Chris Lynn,Sandeep Sharma,1,0,0,1,,Eden Gardens,Kolkata Knight Riders,bat,Kolkata Knight Riders,1
+3,2015-04-03,Kolkata Knight Riders,Kings XI Punjab,Chris Lynn,Sandeep Sharma,1,4,4,1,,Eden Gardens,Kolkata Knight Riders,bat,Kolkata Knight Riders,1
+4,2016-04-04,Delhi Daredevils,Sunrisers Hyderabad,Jean-Paul Duminy,Bhuvneshwar Kumar,1,1,1,1,,Feroz Shah Kotla,Delhi Daredevils,field,Delhi Daredevils,1
+4,2016-04-04,Delhi Daredevils,Sunrisers Hyderabad,Jean-Paul Duminy,Bhuvneshwar Kumar,1,0,0,1,,Feroz Shah Kotla,Delhi Daredevils,field,Delhi Daredevils,1
+4,2016-04-04,Delhi Daredevils,Sunrisers Hyderabad,Jean-Paul Duminy,Bhuvneshwar Kumar,1,6,6,1,,Feroz Shah Kotla,Delhi Daredevils,field,Delhi Daredevils,1
+5,2017-04-05,Rajasthan Royals,Chennai Super Kings,Ajay Mankad,Dwayne Bravo,1,0,0,1,,Sawai Mansingh Stadium,Rajasthan Royals,bat,Rajasthan Royals,1
+5,2017-04-05,Rajasthan Royals,Chennai Super Kings,Ajay Mankad,Dwayne Bravo,1,1,1,1,,Sawai Mansingh Stadium,Rajasthan Royals,bat,Rajasthan Royals,1
+5,2017-04-05,Rajasthan Royals,Chennai Super Kings,Ajay Mankad,Dwayne Bravo,1,4,4,1,,Sawai Mansingh Stadium,Rajasthan Royals,bat,Rajasthan Royals,1
+6,2018-04-06,Kings XI Punjab,Mumbai Indians,KL Rahul,Jasprit Bumrah,1,0,0,1,,Punjab Cricket Association Stadium,Kings XI Punjab,field,Kings XI Punjab,1
+6,2018-04-06,Kings XI Punjab,Mumbai Indians,KL Rahul,Jasprit Bumrah,1,2,2,1,,Punjab Cricket Association Stadium,Kings XI Punjab,field,Kings XI Punjab,1
+6,2018-04-06,Kings XI Punjab,Mumbai Indians,KL Rahul,Jasprit Bumrah,1,4,4,1,,Punjab Cricket Association Stadium,Kings XI Punjab,field,Kings XI Punjab,1
+7,2019-04-07,Royal Challengers Bangalore,Delhi Capitals,AB de Villiers,Kagiso Rabada,1,1,1,1,,M Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1
+7,2019-04-07,Royal Challengers Bangalore,Delhi Capitals,AB de Villiers,Kagiso Rabada,1,0,0,1,,M Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1
+7,2019-04-07,Royal Challengers Bangalore,Delhi Capitals,AB de Villiers,Kagiso Rabada,1,6,6,1,,M Chinnaswamy Stadium,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1
+8,2020-04-08,Chennai Super Kings,Punjab Kings,Suresh Raina,Arshdeep Singh,1,0,0,1,,MA Chidambaram Stadium,Chennai Super Kings,field,Chennai Super Kings,1
+8,2020-04-08,Chennai Super Kings,Punjab Kings,Suresh Raina,Arshdeep Singh,1,1,1,1,,MA Chidambaram Stadium,Chennai Super Kings,field,Chennai Super Kings,1
+8,2020-04-08,Chennai Super Kings,Punjab Kings,Suresh Raina,Arshdeep Singh,1,4,4,1,,MA Chidambaram Stadium,Chennai Super Kings,field,Chennai Super Kings,1
+9,2021-04-09,Gujarat Titans,Lucknow Super Giants,Hardik Pandya,Ravi Bishnoi,1,2,2,1,,DY Patil Stadium,Gujarat Titans,bat,Gujarat Titans,1
+9,2021-04-09,Gujarat Titans,Lucknow Super Giants,Hardik Pandya,Ravi Bishnoi,1,0,0,1,,DY Patil Stadium,Gujarat Titans,bat,Gujarat Titans,1
+9,2021-04-09,Gujarat Titans,Lucknow Super Giants,Hardik Pandya,Ravi Bishnoi,1,6,6,1,,DY Patil Stadium,Gujarat Titans,bat,Gujarat Titans,1
+10,2022-04-10,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,Harshal Patel,1,4,4,1,,Wankhede Stadium,Mumbai Indians,bat,Mumbai Indians,1
+10,2022-04-10,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,Harshal Patel,1,0,0,1,,Wankhede Stadium,Mumbai Indians,bat,Mumbai Indians,1
+10,2022-04-10,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,Harshal Patel,1,1,1,1,,Wankhede Stadium,Mumbai Indians,bat,Mumbai Indians,1
+11,2023-04-11,Sunrisers Hyderabad,Kolkata Knight Riders,David Warner,Andre Russell,1,1,1,1,,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,1
+11,2023-04-11,Sunrisers Hyderabad,Kolkata Knight Riders,David Warner,Andre Russell,1,0,0,1,,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,1
+11,2023-04-11,Sunrisers Hyderabad,Kolkata Knight Riders,David Warner,Andre Russell,1,4,4,1,,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,1
+12,2024-04-12,Delhi Capitals,Rajasthan Royals,Rishabh Pant,Yashasvi Jaiswal,1,2,2,1,,Arun Jaitley Stadium,Delhi Capitals,field,Delhi Capitals,1
+12,2024-04-12,Delhi Capitals,Rajasthan Royals,Rishabh Pant,Yashasvi Jaiswal,1,0,0,1,,Arun Jaitley Stadium,Delhi Capitals,field,Delhi Capitals,1
+12,2024-04-12,Delhi Capitals,Rajasthan Royals,Rishabh Pant,Yashasvi Jaiswal,1,6,6,1,,Arun Jaitley Stadium,Delhi Capitals,field,Delhi Capitals,1
+13,2025-04-13,Lucknow Super Giants,Punjab Kings,Quinton de Kock,Sam Curran,1,0,0,1,,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,bat,Lucknow Super Giants,1
+13,2025-04-13,Lucknow Super Giants,Punjab Kings,Quinton de Kock,Sam Curran,1,1,1,1,,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,bat,Lucknow Super Giants,1
+13,2025-04-13,Lucknow Super Giants,Punjab Kings,Quinton de Kock,Sam Curran,1,4,4,1,,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,bat,Lucknow Super Giants,1
+14,2026-04-14,Gujarat Titans,Mumbai Indians,Wriddhiman Saha,Jasprit Bumrah,1,1,1,1,,Narendra Modi Stadium,Gujarat Titans,field,Gujarat Titans,1
+14,2026-04-14,Gujarat Titans,Mumbai Indians,Wriddhiman Saha,Jasprit Bumrah,1,0,0,1,,Narendra Modi Stadium,Gujarat Titans,field,Gujarat Titans,1
+14,2026-04-14,Gujarat Titans,Mumbai Indians,Wriddhiman Saha,Jasprit Bumrah,1,6,6,1,,Narendra Modi Stadium,Gujarat Titans,field,Gujarat Titans,1
+1,2013-04-01,Chennai Super Kings,Mumbai Indians,MS Dhoni,Lasith Malinga,15,2,2,1,,DY Patil Stadium,Mumbai Indians,bat,Mumbai Indians,2
+1,2013-04-01,Chennai Super Kings,Mumbai Indians,MS Dhoni,Lasith Malinga,15,0,0,1,,DY Patil Stadium,Mumbai Indians,bat,Mumbai Indians,2
+1,2013-04-01,Chennai Super Kings,Mumbai Indians,MS Dhoni,Lasith Malinga,15,4,4,1,,DY Patil Stadium,Mumbai Indians,bat,Mumbai Indians,2
+2,2014-04-02,Rajasthan Royals,Royal Challengers Bangalore,Steven Smith,Virat Kohli,18,1,1,1,,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,2
+2,2014-04-02,Rajasthan Royals,Royal Challengers Bangalore,Steven Smith,Virat Kohli,18,0,0,1,,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,2
+2,2014-04-02,Rajasthan Royals,Royal Challengers Bangalore,Steven Smith,Virat Kohli,18,6,6,1,,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Royal Challengers Bangalore,2
